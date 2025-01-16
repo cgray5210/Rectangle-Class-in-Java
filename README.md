@@ -1,4 +1,4 @@
-# Rectangle-Class-Java
+# Robust Shape Design for Secure Systems
 
 In the context of cybersecurity, having a solid understanding of object-oriented programming (OOP) principles, like encapsulation and constructor use, is crucial. These principles not only help in building maintainable and modular systems but also in creating secure and efficient software. This project demonstrates how to design a **Rectangle** class using Java, which incorporates OOP concepts to model a real-world object.
 
